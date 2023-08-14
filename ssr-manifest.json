@@ -9,13 +9,13 @@
   "src/modules/pwa.ts": [],
   "src/pages/index.vue?vue&type=route&index=0&lang.yaml": [],
   "src/pages/index.vue": [],
-  "../../../../../@vite-plugin-pages/generated-pages": [],
-  "../../../../../@vite-plugin-vue-layouts/generated-layouts": [],
+  "../../../../@vite-plugin-pages/generated-pages": [],
+  "../../../../@vite-plugin-vue-layouts/generated-layouts": [],
   "src/App.vue": [],
-  "../../../../../@windicss/windi-base.css": [],
-  "../../../../../@windicss/windi-components.css": [],
+  "../../../../@windicss/windi-base.css": [],
+  "../../../../@windicss/windi-components.css": [],
   "src/styles/main.css": [],
-  "../../../../../@windicss/windi-utilities.css": [],
+  "../../../../@windicss/windi-utilities.css": [],
   "src/main.ts": [],
   "index.html": [],
   "node_modules/vue-i18n/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
@@ -102,7 +102,7 @@
   "\u0000commonjsHelpers.js": [
     "/assets/vendor.ba0819c9.js"
   ],
-  "\u0000C:/Users/trivo/Documents/GitHub/blog/node_modules/nprogress/nprogress.js?commonjs-module": [
+  "\u0000/home/trivo/Development/blog/node_modules/nprogress/nprogress.js?commonjs-module": [
     "/assets/vendor.ba0819c9.js"
   ],
   "node_modules/nprogress/nprogress.js": [
@@ -130,10 +130,10 @@
     "/assets/vendor.ba0819c9.js"
   ],
   "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/assets/virtual_pwa-register.3deeaaee.js"
+    "/assets/virtual_pwa-register.3e08f338.js"
   ],
-  "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register.3deeaaee.js"
+  "../../../../@vite-plugin-pwa/virtual:pwa-register": [
+    "/assets/virtual_pwa-register.3e08f338.js"
   ],
   "src/pages/resources.vue?vue&type=route&index=0&lang.yaml": [
     "/assets/resources.27aa8284.js"
@@ -187,21 +187,21 @@
     "/assets/pic.db8f0a66.png"
   ],
   "src/components/Articles.vue": [
-    "/assets/home.d3b42fa4.js"
+    "/assets/home.522a6b9e.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.d3b42fa4.js"
+    "/assets/home.522a6b9e.js"
   ],
   "src/components/Links.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/links_layout.b6955c5f.js",
-    "/assets/links_layout.c0588862.css"
+    "/assets/links_layout.72581ca7.js",
+    "/assets/links_layout.63442760.css"
   ],
   "src/components/Links.vue": [
-    "/assets/links_layout.b6955c5f.js",
-    "/assets/links_layout.c0588862.css"
+    "/assets/links_layout.72581ca7.js",
+    "/assets/links_layout.63442760.css"
   ],
   "src/layouts/links_layout.vue": [
-    "/assets/links_layout.b6955c5f.js",
-    "/assets/links_layout.c0588862.css"
+    "/assets/links_layout.72581ca7.js",
+    "/assets/links_layout.63442760.css"
   ]
 }
