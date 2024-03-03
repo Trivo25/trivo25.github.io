@@ -102,7 +102,7 @@
   "\u0000commonjsHelpers.js": [
     "/assets/vendor.ba0819c9.js"
   ],
-  "\u0000/Users/trivo/Documents/GitHub/blog/node_modules/nprogress/nprogress.js?commonjs-module": [
+  "\u0000/home/trivo/Documents/GitHub/blog/node_modules/nprogress/nprogress.js?commonjs-module": [
     "/assets/vendor.ba0819c9.js"
   ],
   "node_modules/nprogress/nprogress.js": [
@@ -187,10 +187,10 @@
     "/assets/pic.db8f0a66.png"
   ],
   "src/components/Articles.vue": [
-    "/assets/home.dd9a4eb3.js"
+    "/assets/home.184cbd0e.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.dd9a4eb3.js"
+    "/assets/home.184cbd0e.js"
   ],
   "src/components/Links.vue?vue&type=style&index=0&scoped=true&lang.css": [
     "/assets/links_layout.b45f6e6a.js",
